@@ -40,5 +40,7 @@ TimeBar <- ggplot(TextMessLong, aes(Time, Texts))
 TimeBar+stat_summary(fun.y=mean, geom="bar", fill="White", colour ="Black") + 
   labs(x="Time", y="Avg Number of Text Messages") +
   scale_y_continuous(limits=c(0,90), breaks= seq(from=0, to=90, by=5))
+#The graph allows us to see that the average number of text messages decreased 
+#by about 10 from ~65 at the baseline, to ~55 at six months.
 
 
