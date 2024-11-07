@@ -8,7 +8,7 @@ By doing so, we were able to plot the two different groups, highlight any outlie
 Visualization 2: Marcos 
 
 The goal of this visualization is to make a bar chart of the average number of text messages, stratified by the two different time slots (baseline and six months).
-In order to do this I had to reorgannize the data by reshaping the table. This was in order to make 
+In order to do this I had to reorgannize the data by reshaping the table.
 
 
 Summary Statistics: Johnathon 
