@@ -11,5 +11,6 @@ In order to do this I had to reorgannize the data by reshaping the table. This w
 
 
 Summary Statistics: Johnathon 
+
 The goal for this portion of the assignment was to create a summary statistics of Text Messages by Group and Time. 
 
