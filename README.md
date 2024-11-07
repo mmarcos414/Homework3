@@ -1,6 +1,7 @@
 # Homework3
 
 Visualization 1: Zander 
+
 The goal for this portion of the assignment is to create stratified boxplot of Text Messages by Group. 
 By doing so, we were able to plot the two different groups, highlight any outliers, and further analyze our dataset. 
 
